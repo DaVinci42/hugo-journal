@@ -94,7 +94,7 @@ abbr {
 kbd,
 code,
 pre {
-  font-family: '"Source Code Pro"', monospace; }
+  font-family: '"Source Code Pro"', monospace, serif; }
 
 pre {
   max-width: 100%; }
